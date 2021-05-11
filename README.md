@@ -1,3 +1,4 @@
 ## Welcome to Gaming meets AI!!!
 
-My first commit from VS code
+# Week 1
+Started Assignment 
